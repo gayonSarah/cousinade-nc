@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gpatsrh.github.io/cousinade-nc/sitemap.xml
